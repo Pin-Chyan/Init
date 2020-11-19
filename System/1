@@ -1,0 +1,5 @@
+# In what file can you find the installed version of your Debian?
+/etc/debian_version
+
+# use this inside the ect folder to see version
+while read line; do echo $line; done < debian_version

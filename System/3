@@ -1,0 +1,4 @@
+# What file has to be modified to make it permanent?
+/etc/hostname
+/etc/hosts
+# both the files listed above need to be updated
