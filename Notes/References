@@ -4,6 +4,8 @@ https://www.cyberciti.biz/faq/how-to-find-gateway-ip-address/
 https://geek-university.com/linux/nslookup-command/#:~:text=nslookup%20(name%20server%20lookup)%20is,%3A%20interactive%20and%20non%2Dinteractive.
 https://www.cyberciti.biz/faq/how-to-find-out-dns-for-router/
 https://www.cyberciti.biz/faq/how-to-find-my-public-ip-address-from-command-line-on-a-linux/
+https://www.howtogeek.com/657780/how-to-use-the-traceroute-command-on-linux/
+https://www.tecmint.com/setup-local-dns-using-etc-hosts-file-in-linux/
 
 System.
 https://www.cyberciti.biz/faq/howto-find-a-directory-linux-command/
@@ -23,3 +25,6 @@ https://linux4one.com/how-to-list-installed-packages-on-debian
 
 Scripting.
 https://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/
+https://www.tutorialspoint.com/unix/shell_scripting.htm
+https://www.ubuntupit.com/simple-yet-effective-linux-shell-script-examples/
+https://opensource.com/article/19/9/linux-commands-hardware-information

@@ -1,0 +1,4 @@
+# Find the IP that was assigned to you by dhcp server
+ifconfig wifi0 | grep 'inet' | awk '{print $2}'
+
+# varies depending on devices for mine its wifi0 this was done at home not on campus

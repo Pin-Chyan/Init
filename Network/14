@@ -1,0 +1,5 @@
+# What file contains the local DNS entries?
+The `/etc/hosts` file contain the local DNS entries for a machine.
+
+# command
+sudo vi /etc/hosts

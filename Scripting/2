@@ -1,2 +1,6 @@
 # Write a script which delete an ACTIVE user on the VM.
 
+#!/bin/bash
+USER=deletemelater
+sudo kill `pgrep -u $USER`
+sudo deluser $USER
