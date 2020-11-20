@@ -1,4 +1,14 @@
+Network.
+https://www.cyberciti.biz/faq/show-ethernet-adapter-ubuntu-linux/
+https://www.cyberciti.biz/faq/how-to-find-gateway-ip-address/
+https://geek-university.com/linux/nslookup-command/#:~:text=nslookup%20(name%20server%20lookup)%20is,%3A%20interactive%20and%20non%2Dinteractive.
+https://www.cyberciti.biz/faq/how-to-find-out-dns-for-router/
+https://www.cyberciti.biz/faq/how-to-find-my-public-ip-address-from-command-line-on-a-linux/
+
 System.
+https://www.cyberciti.biz/faq/howto-find-a-directory-linux-command/
+https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/
+https://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html
 https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-debian-9
 https://www.thegeekstuff.com/2009/03/4-ways-to-identify-who-is-logged-in-on-your-linux-system/
 https://www.binarytides.com/linux-command-check-disk-partitions/
@@ -10,3 +20,6 @@ https://www.cyberciti.biz/faq/howto-start-stop-ssh-server/
 https://www.cyberciti.biz/faq/linux-list-users-command/
 https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/
 https://linux4one.com/how-to-list-installed-packages-on-debian
+
+Scripting.
+https://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/
