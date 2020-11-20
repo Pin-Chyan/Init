@@ -1,1 +1,5 @@
+# first generate a ssh-keys
+ssh-keygen
+
 # What file contains the RSA keys of systems that are authorized to connect via SSH?
+/your_home/.ssh/id_rsa
